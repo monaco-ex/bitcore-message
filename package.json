@@ -1,6 +1,6 @@
 {
-  "name": "bitcore-message",
-  "version": "1.0.3",
+  "name": "@monaco-ex/bitcore-message",
+  "version": "1.0.3-segwit-1",
   "description": "Bitcoin Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "url": "https://github.com/bitpay/bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7"
+    "@monaco-ex/bitcore-lib": "^0.14.0-segwit-1"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
